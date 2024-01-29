@@ -7,3 +7,5 @@ The camera on the microcontroller was utilized and trained to detect a spoon. Wh
 
 Project 2 -> Audio Detection
 The camera on the microcontroller was utilized and trained to detect the word Pizza. When someone would speak into the microphone and the word "pizza" was used, the output would indicate that pizza is detected.
+
+Datasets not include since they require a lot of space.
